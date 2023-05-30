@@ -8,9 +8,9 @@ pipeline {
             }
         }
         
-        stage('Stage2') {
+        stage('Stage5') {
             steps {
-                echo 'Stage2 is here'
+                echo 'Stage5 is here'
             }
         }
         stage('Stage3') {
