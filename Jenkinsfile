@@ -23,7 +23,7 @@ pipeline {
                 echo 'Stage4 is here'
             }
         }
-        stage('Stage5') {
+        stage('Stage6') {
             steps {
                 echo 'Stage5 is here'
             }
